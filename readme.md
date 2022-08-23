@@ -8,3 +8,5 @@
 * Adding border radius.
 
 ![thumbnail](screenShot.png)
+
+[Deployed Link](https://digital-maketing-home-page.netlify.app/)
