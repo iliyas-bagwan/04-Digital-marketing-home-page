@@ -1,4 +1,4 @@
-# Street style landing page
+# Digital marketing landing page
 ### Things I learned in this mini project
 * Adding font family using Goole font link.
 * Applying different color to pertucular word or words.
